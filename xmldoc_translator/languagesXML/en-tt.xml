@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!--Codes XML Document-->
+<DocumentElement>
+    <culture value="en-TT">
+        <item code="SGN" text="โฮจิมินห์ " order="1" />
+        <item code="HAN" text="ฮานอย" order="2" />
+        <item code="REP" text="เสียมราฐ" order="3" />
+        <item code="PNH" text="พนมเปญ" order="4" />
+        <item code="TPE" text="ไทเป - เถาหยวน" order="5" />
+        <item code="CNX" text="เชียงใหม่" order="6" />
+        <item code="CEI" text="เชียงราย" order="7" />
+        <item code="KBV" text="กระบี่ " order="8" />
+        <item code="BKK" text="กรุงเทพฯ" order="9" />
+        <item code="NST" text="นครศรีธรรมราช" order="10" />
+        <item code="NAW" text="นราธิวาส" order="11" />
+        <item code="HKT" text="ภูเก็ต" order="12" />
+        <item code="URT" text="สุราษฎร์ธานี" order="13" />
+        <item code="HDY" text="หาดใหญ่" order="14" />
+        <item code="UTH" text="อุดรธานี" order="15" />
+        <item code="UBP" text="อุบลราชธานี" order="16" />
+        <item code="CTU" text="เฉิงตู" order="17" />
+        <item code="SZX" text="เซินเจิน" order="18" />
+        <item code="CAN" text="กวางโจว" order="19" />
+        <item code="KWL" text="กุ้ยหลิน" order="20" />
+        <item code="HGH" text="หางโจว" order="21" />
+        <item code="BWN" text="บรูไน" order="22" />
+        <item code="RGN" text="ย่างกุ้ง" order="23" />
+        <item code="CRK" text="คล้าก" order="24" />
+        <item code="MFM" text="มาเก๊า" order="25" />
+        <item code="BKI" text="โคตาคินาบาลู" order="26" />
+        <item code="KBR" text="โคตาบาห์รู" order="27" />
+        <item code="TGG" text="กัวลาตรังกานู" order="28" />
+        <item code="KUL" text="กัวลาลัมเปอร์" order="29" />
+        <item code="KCH" text="กูชิง" order="30" />
+        <item code="SDK" text="ซานดากัน" order="31" />
+        <item code="SBW" text="ซิบู" order="32" />
+        <item code="TWU" text="ตาวาอู" order="33" />
+        <item code="BTU" text="บินตูลู " order="34" />
+        <item code="PEN" text="ปีนัง " order="35" />
+        <item code="MYY" text="มิริ" order="36" />
+        <item code="JHB" text="ยะโฮร์ บาห์รู " order="37" />
+        <item code="LGK" text="ลังกาวี " order="38" />
+        <item code="LBU" text="ลาบวน " order="39" />
+        <item code="AOR" text="อลอร์ สตาร์" order="40" />
+        <item code="IKA" text="เตหะราน – อิหม่ามโคไมนี" order="41" />
+        <item code="VTE" text="เวียงจันทน์ " order="42" />
+        <item code="ICN" text="โซล – อินชอน" order="43" />
+        <item code="CMB" text="โคลัมโบ" order="44" />
+        <item code="SIN" text="สิงคโปร์" order="45" />
+        <item code="PER" text="เพิร์ธ" order="46" />
+        <item code="MEL" text="เมลเบิร์น" order="47" />
+        <item code="OOL" text="โกล์ดโคสต์" order="48" />
+        <item code="MAA" text="เชนไน" order="49" />
+        <item code="TRZ" text="ติรุจิรัปปัลลิ" order="50" />
+        <item code="COK" text="โกชิ" order="51" />
+        <item code="CCU" text="โกลกาตา" order="52" />
+        <item code="DEL" text="นิวเดลี" order="53" />
+        <item code="BLR" text="เบงกาลูรู" order="54" />
+        <item code="BOM" text="มุมไบ" order="55" />
+        <item code="SOC" text="โซโล " order="56" />
+        <item code="CGK" text="จาการ์ตา" order="57" />
+        <item code="BTJ" text="บันดา อาเจะห์ " order="58" />
+        <item code="BDO" text="บันดุง" order="59" />
+        <item code="DPS" text="บาหลี" order="60" />
+        <item code="PDG" text="ปาดัง" order="61" />
+        <item code="PKU" text="ปีกันบารู" order="62" />
+        <item code="UPG" text="มากัสซาร์ อูจุง ปาดัง" order="63" />
+        <item code="JOG" text="ย็อกยาการ์ตา" order="64" />
+        <item code="SUB" text="สุราบายา" order="65" />
+        <item code="HKG" text="ฮ่องกง" order="66" />
+        <item code="HND" text="โตเกียว" order="67" />
+        <item code="BFV" text="บุรีรัมย์" order="68" />
+        <item code="CHC" text="ไครสต์เชิร์ช " order="69" />
+        <item code="PLM" text="ปาเล็มบัง " order="70" />
+        <item code="BPN" text="เซปิงกัน " order="71" />
+        <item code="CKG" text="ฉงชิ่ง" order="72" />
+        <item code="KWE" text="กุ้ยหยาง (ชาร์เตอร์)" order="73" />
+        <item code="NKG" text="หนานจิง" order="74" />
+        <item code="KIX" text="โอซาก้า – คันไซ" order="75" />
+        <item code="CSX" text="ฉางซา" order="76" />
+        <item code="SRG" text="เซมารัง" order="77" />
+        <item code="TST" text="ตรัง" order="78" />
+        <item code="KOP" text="นครพนม" order="79" />
+        <item code="SYD" text="ซิดนีย์" order="80" />
+        <item code="DVO" text="ดาเวา" order="81" />
+        <item code="DXB" text="" order="82" />
+        <item code="HRB" text="" order="83" />
+        <item code="KLO" text="คาลิโบ - โบราเคย์" order="84" />
+        <item code="JED" text="เจดดาห์" order="85" />
+        <item code="PPS" text="แปร์โตปรินเซซา - ปาลาวัน" order="86" />
+        <item code="SHA" text="" order="87" />
+        <item code="MNL" text="มะนิลา" order="88" />
+        <item code="PEK" text="ปักกิ่ง" order="89" />
+        <item code="SHJ" text="" order="90" />
+        <item code="TLS" text="" order="91" />
+        <item code="BEY" text="" order="92" />
+        <item code="CGO" text="" order="93" />
+        <item code="BGW" text="" order="94" />
+        <item code="DMK" text="กรุงเทพฯ - ดอนเมือง" order="95" />
+        <item code="KTM" text="กาฐมาณฑุ" order="96" />
+        <item code="NGB" text="หนิงโป" order="97" />
+        <item code="NNG" text="หนานหนิง" order="98" />
+        <item code="SZB" text="" order="99" />
+        <item code="LOP" text="ลอมบอก" order="100" />
+        <item code="MDL" text="มัณฑะเลย์ " order="101" />
+        <item code="WUH" text="อู่ฮั่น " order="102" />
+        <item code="XIY" text="ซีอาน" order="103" />
+        <item code="1AA" text="สมุย (ท่าเรือลิปะน้อย)" order="104" />
+        <item code="1AB" text="พงัน (ท่าเรือท้องศาลา)" order="105" />
+        <item code="1AC" text="พีพี (ท่าเรือพีพี)" order="106" />
+        <item code="CTS" text="ซัปโปโร - ชินชิโตะเซะ" order="107" />
+        <item code="1AD" text="ลันตา (ท่าเรือศาลาด่าน)" order="108" />
+        <item code="1AE" text="หลีเป๊ะ (หาดชาวเล)" order="109" />
+        <item code="L1A" text="" order="110" />
+        <item code="L1B" text="" order="111" />
+        <item code="L1C" text="" order="112" />
+        <item code="L1D" text="" order="113" />
+        <item code="GAY" text="" order="114" />
+        <item code="PUS" text="ปูซาน" order="115" />
+        <item code="KMG" text="คุนหมิง" order="116" />
+        <item code="PVG" text="เซี่ยงไฮ้" order="117" />
+        <item code="WNZ" text="" order="118" />
+        <item code="DLC" text="" order="119" />
+        <item code="1AF" text="ไหง (เกาะไหงวิลล่า) " order="120" />
+        <item code="1AG" text="ยาวน้อย (ท่าเรือมาเนาะ)" order="121" />
+        <item code="L1E" text="" order="122" />
+        <item code="L1F" text="" order="123" />
+        <item code="DRW" text="ดาร์วิน" order="124" />
+        <item code="CEB" text="เซบู" order="125" />
+        <item code="JJN" text="จินเจียง" order="126" />
+        <item code="TAG" text="แทกบิลารัน" order="127" />
+        <item code="HFE" text="" order="128" />
+        <item code="KNO" text="เมดาน – กัวลานามู" order="129" />
+        <item code="MWX" text="" order="130" />
+        <item code="TAC" text="ทาโคลบาน" order="131" />
+        <item code="TAO" text="" order="132" />
+        <item code="KKC" text="ขอนแก่น" order="133" />
+        <item code="MLE" text="มาเล" order="134" />
+        <item code="PHS" text="พิษณุโลก" order="135" />
+        <item code="XCH" text="Christmas Island (Charter)" order="136" />
+        <item code="3AA" text="ปาย (สถานีขนส่งปาย)" order="137" />
+        <item code="L1G" text="" order="138" />
+        <item code="3AB" text="สุโขทัย (ธาราบุรีรีสอร์ท)" order="139" />
+        <item code="CJU" text="เจจู" order="140" />
+        <item code="NRT" text="โตเกียว – นาริตะ" order="141" />
+        <item code="3AC" text="มุกดาหาร (ตลาดอินโดจีน) " order="142" />
+        <item code="1AH" text="เกาะเต่า (ท่าเรือซีทราน)" order="143" />
+        <item code="DAD" text="ดานัง" order="144" />
+        <item code="GOI" text="โคอา" order="145" />
+        <item code="MED" text="" order="146" />
+        <item code="3AD" text="กาฬสินธุ์ (สวนสาธารณะกุดน้ำกิน)" order="147" />
+        <item code="3AE" text="มหาสารคาม (เสริมไทยคอมเพล็กซ์)" order="148" />
+        <item code="IXC" text="จัณฑีครห์" order="149" />
+        <item code="JAI" text="ชัยปุระ" order="150" />
+        <item code="DKR" text="" order="151" />
+        <item code="SNO" text="สกลนคร" order="152" />
+        <item code="HHQ" text="" order="153" />
+        <item code="HYD" text="ไฮเดอราบัด" order="154" />
+        <item code="TUN" text="" order="155" />
+        <item code="PNQ" text="ปูเน่" order="156" />
+        <item code="3AG" text="ขนอม" order="157" />
+        <item code="GES" text="" order="158" />
+        <item code="LOE" text="เลย" order="159" />
+        <item code="NNT" text="น่าน" order="160" />
+        <item code="ROI" text="ร้อยเอ็ด" order="161" />
+        <item code="PNK" text="ปนตีอานัก" order="162" />
+        <item code="VTZ" text="วิชาคาปัทนัม" order="163" />
+        <item code="GAU" text="กูวาฮาติ" order="164" />
+        <item code="3AI" text="สุรินทร์ (เดอะช้าง โนวเลจพาร์ค) " order="165" />
+        <item code="UTP" text="พัทยา" order="166" />
+        <item code="KHH" text="เกาสง" order="167" />
+        <item code="IMF" text="อิมฟาล" order="168" />
+        <item code="3AJ" text="เชียงคาน" order="169" />
+        <item code="DAC" text="ธากา" order="170" />
+        <item code="KHN" text="หนานชาง" order="171" />
+        <item code="WUX" text="" order="172" />
+        <item code="1AI" text="เกาะล้าน (ท่าเรือหน้าบ้าน)" order="173" />
+        <item code="1AJ" text="เสม็ด ( ท่าเรือหน้าด่าน)" order="174" />
+        <item code="3AK" text="ตัวเมืองพัทยา (เซ็นทรัลเฟสติวัล พัทยา บีช)" order="175" />
+        <item code="3AR" text="ระยอง (แพชชั่น บาย แหลมทอง ระยอง)" order="176" />
+        <item code="HET" text="" order="177" />
+        <item code="L1S" text="" order="178" />
+        <item code="URC" text="" order="179" />
+        <item code="VNS" text="" order="180" />
+        <item code="AKL" text="โอ๊คแลนด์" order="181" />
+        <item code="3AV" text="ตัวเมืองบุรีรัมย์  (โรงแรมเบส เวสเทิร์น)" order="182" />
+        <item code="LHW" text="" order="183" />
+        <item code="LPQ" text="หลวงพระบาง" order="184" />
+        <item code="TNA" text="" order="185" />
+        <item code="SWA" text="ซัวเถา" order="186" />
+        <item code="TTE" text="" order="187" />
+        <item code="HNL" text="โฮโนลูลู" order="188" />
+        <item code="MCT" text="มัสกัต" order="189" />
+        <item code="SHE" text="" order="190" />
+        <item code="MRU" text="มอริเชียส" order="191" />
+        <item code="CGQ" text="" order="192" />
+        <item code="DSN" text="" order="193" />
+        <item code="MZJ" text="" order="194" />
+        <item code="XNN" text="" order="195" />
+        <item code="IXB" text="บักโดกรา" order="196" />
+        <item code="SXR" text="ศรีนาการ์" order="197" />
+        <item code="MPH" text="คาติแคลน - โบราเคย์ " order="198" />
+        <item code="BBI" text="ภูวเนศวร" order="199" />
+        <item code="IXR" text="รันจี" order="200" />
+        <item code="KOS" text="สีหนุวิลล์" order="201" />
+        <item code="BNE" text="" order="202" />
+        <item code="CXR" text="ญาจาง" order="203" />
+        <item code="ILO" text="อิโลอิโล" order="204" />
+        <item code="NGO" text="นาโกย่า – ชูบุ" order="205" />
+        <item code="OKA" text="" order="206" />
+        <item code="UNN" text="ระนอง" order="207" />
+    </culture>
+</DocumentElement>

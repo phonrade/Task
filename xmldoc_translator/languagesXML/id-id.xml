@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!--Codes XML Document-->
+<DocumentElement>
+    <culture value="id-ID">
+        <item code="OOL" text="Gold Coast" order="1" />
+        <item code="MEL" text="Melbourne" order="2" />
+        <item code="PER" text="Perth" order="3" />
+        <item code="BWN" text="Brunei" order="4" />
+        <item code="CTU" text="Chengdu" order="5" />
+        <item code="CAN" text="Guangzhou" order="6" />
+        <item code="KWL" text="Guilin" order="7" />
+        <item code="HGH" text="Hangzhou" order="8" />
+        <item code="SZX" text="Shenzhen" order="9" />
+        <item code="CRK" text="Clark" order="10" />
+        <item code="HKG" text="Hong Kong" order="11" />
+        <item code="BLR" text="Bengaluru" order="12" />
+        <item code="MAA" text="Chennai" order="13" />
+        <item code="COK" text="Kochi" order="14" />
+        <item code="CCU" text="Kolkata" order="15" />
+        <item code="BOM" text="Mumbai" order="16" />
+        <item code="DEL" text="New Delhi" order="17" />
+        <item code="TRZ" text="Tiruchirappalli" order="18" />
+        <item code="DPS" text="Bali" order="19" />
+        <item code="BTJ" text="Banda Aceh" order="20" />
+        <item code="BDO" text="Bandung" order="21" />
+        <item code="CGK" text="Jakarta" order="22" />
+        <item code="UPG" text="Makassar" order="23" />
+        <item code="PDG" text="Padang" order="24" />
+        <item code="PKU" text="Pekanbaru" order="25" />
+        <item code="SOC" text="Solo" order="26" />
+        <item code="SUB" text="Surabaya" order="27" />
+        <item code="IKA" text="Tehran" order="28" />
+        <item code="JOG" text="Yogyakarta" order="29" />
+        <item code="HND" text="Tokyo - Haneda" order="30" />
+        <item code="PNH" text="Phnom Penh" order="31" />
+        <item code="REP" text="Siem Reap" order="32" />
+        <item code="ICN" text="Seoul" order="33" />
+        <item code="VTE" text="Vientiane" order="34" />
+        <item code="MFM" text="Macao" order="35" />
+        <item code="AOR" text="Alor Setar" order="36" />
+        <item code="BTU" text="Bintulu" order="37" />
+        <item code="JHB" text="Johor Bahru" order="38" />
+        <item code="KBR" text="Kota Bharu" order="39" />
+        <item code="BKI" text="Kota Kinabalu" order="40" />
+        <item code="KUL" text="Kuala Lumpur" order="41" />
+        <item code="TGG" text="Kuala Terengganu" order="42" />
+        <item code="KCH" text="Kuching" order="43" />
+        <item code="LBU" text="Labuan" order="44" />
+        <item code="3AD" text="Kalasin" order="45" />
+        <item code="LGK" text="Langkawi" order="46" />
+        <item code="MYY" text="Miri" order="47" />
+        <item code="PEN" text="Penang" order="48" />
+        <item code="SDK" text="Sandakan" order="49" />
+        <item code="SBW" text="Sibu" order="50" />
+        <item code="TWU" text="Tawau" order="51" />
+        <item code="RGN" text="Yangoon" order="52" />
+        <item code="SIN" text="Singapura" order="53" />
+        <item code="CMB" text="Kolombo" order="54" />
+        <item code="TPE" text="Taipei - Taoyuan" order="55" />
+        <item code="BKK" text="Bangkok" order="56" />
+        <item code="CNX" text="Chiang Mai" order="57" />
+        <item code="CEI" text="Chiang Rai" order="58" />
+        <item code="HDY" text="Hat Yai" order="59" />
+        <item code="KBV" text="Krabi" order="60" />
+        <item code="NST" text="Nakhon Si Thammarat" order="61" />
+        <item code="NAW" text="Narathiwat" order="62" />
+        <item code="HKT" text="Phuket" order="63" />
+        <item code="URT" text="Surat Thani" order="64" />
+        <item code="UBP" text="Ubon Ratchathani" order="65" />
+        <item code="UTH" text="Udon Thani" order="66" />
+        <item code="HAN" text="Hanoi" order="67" />
+        <item code="SGN" text="Ho Chi Minh City" order="68" />
+        <item code="CHC" text="Christchurch" order="69" />
+        <item code="3AE" text="Mahasarakham" order="70" />
+        <item code="BPN" text="Balikpapan" order="71" />
+        <item code="BFV" text="Buri Ram" order="72" />
+        <item code="CKG" text="Chongqing" order="73" />
+        <item code="KWE" text="Guiyang (Charter)" order="74" />
+        <item code="NKG" text="Nanjing" order="75" />
+        <item code="PLM" text="Palembang" order="76" />
+        <item code="KIX" text="Osaka - Kansai" order="77" />
+        <item code="CSX" text="Changsha" order="78" />
+        <item code="KOP" text="Nakhon Phanom" order="79" />
+        <item code="SRG" text="Semarang" order="80" />
+        <item code="SYD" text="Sydney" order="81" />
+        <item code="DXB" text="" order="82" />
+        <item code="TST" text="Trang" order="83" />
+        <item code="DVO" text="Davao" order="84" />
+        <item code="HRB" text="" order="85" />
+        <item code="JED" text="Jeddah" order="86" />
+        <item code="KLO" text="Kalibo - Boracay" order="87" />
+        <item code="SHA" text="" order="88" />
+        <item code="PPS" text="Puerto Princesa - Palawan" order="89" />
+        <item code="MNL" text="Manila" order="90" />
+        <item code="PEK" text="Beijing" order="91" />
+        <item code="SHJ" text="" order="92" />
+        <item code="TLS" text="" order="93" />
+        <item code="BEY" text="" order="94" />
+        <item code="BGW" text="" order="95" />
+        <item code="DMK" text="Bangkok – Don Mueang " order="96" />
+        <item code="KTM" text="Kathmandu" order="97" />
+        <item code="NGB" text="Ningbo" order="98" />
+        <item code="NNG" text="Nanning" order="99" />
+        <item code="SZB" text="" order="100" />
+        <item code="LOP" text="Lombok" order="101" />
+        <item code="MDL" text="Mandalay" order="102" />
+        <item code="WUH" text="Wuhan" order="103" />
+        <item code="CTS" text="Sapporo - Shin-Chitose" order="104" />
+        <item code="XIY" text="Xi'an" order="105" />
+        <item code="1AA" text="Samui (Pelabuhan Lipa Noi)" order="106" />
+        <item code="1AB" text="Phangan (Dermaga Thong Sala)" order="107" />
+        <item code="1AC" text="Phi Phi (Dermaga Phi Phi) " order="108" />
+        <item code="1AD" text="Lanta (Dermaga Saladan)" order="109" />
+        <item code="CGO" text="" order="110" />
+        <item code="1AE" text="Lipe (Sunrise Beach)" order="111" />
+        <item code="L1A" text="" order="112" />
+        <item code="L1B" text="" order="113" />
+        <item code="L1C" text="" order="114" />
+        <item code="L1D" text="" order="115" />
+        <item code="PUS" text="Busan" order="116" />
+        <item code="KMG" text="Kunming" order="117" />
+        <item code="PVG" text="Shanghai" order="118" />
+        <item code="WNZ" text="" order="119" />
+        <item code="DLC" text="" order="120" />
+        <item code="1AF" text="Ngai (KohNgai Villa)" order="121" />
+        <item code="1AG" text="Yao Noi (Dermaga Manoh)" order="122" />
+        <item code="L1E" text="" order="123" />
+        <item code="L1F" text="" order="124" />
+        <item code="DRW" text="Darwin" order="125" />
+        <item code="CEB" text="Cebu" order="126" />
+        <item code="JJN" text="Jinjiang" order="127" />
+        <item code="TAG" text="Tagbilaran" order="128" />
+        <item code="TAC" text="Tacloban" order="129" />
+        <item code="HFE" text="" order="130" />
+        <item code="KNO" text="Medan - Kualanamu" order="131" />
+        <item code="MWX" text="" order="132" />
+        <item code="TAO" text="" order="133" />
+        <item code="KKC" text="Khon Kaen" order="134" />
+        <item code="MLE" text="Male" order="135" />
+        <item code="PHS" text="Phitsanulok" order="136" />
+        <item code="XCH" text="Christmas Island (Charter)" order="137" />
+        <item code="3AA" text="Pai (Stasiun Bus Pai)" order="138" />
+        <item code="GAY" text="" order="139" />
+        <item code="3AB" text="Sukhothai (Tharaburi Resort)" order="140" />
+        <item code="CJU" text="Jeju" order="141" />
+        <item code="NRT" text="Tokyo - Narita" order="142" />
+        <item code="3AC" text="Mukdahan (Pasar Indocina) " order="143" />
+        <item code="1AH" text="Pulau Tao (dermaga Seatran)" order="144" />
+        <item code="DAD" text="Da Nang" order="145" />
+        <item code="GOI" text="Goa" order="146" />
+        <item code="IXC" text="Chandigarh" order="147" />
+        <item code="JAI" text="Jaipur" order="148" />
+        <item code="SNO" text="Sakon Nakhon" order="149" />
+        <item code="HYD" text="Hyderabad" order="150" />
+        <item code="L1G" text="" order="151" />
+        <item code="PNQ" text="Pune" order="152" />
+        <item code="MED" text="" order="153" />
+        <item code="3AG" text="Khanom" order="154" />
+        <item code="DKR" text="" order="155" />
+        <item code="HHQ" text="" order="156" />
+        <item code="TUN" text="" order="157" />
+        <item code="GES" text="" order="158" />
+        <item code="LOE" text="Loei" order="159" />
+        <item code="NNT" text="Nan" order="160" />
+        <item code="ROI" text="Roi Et" order="161" />
+        <item code="PNK" text="Pontianak" order="162" />
+        <item code="VTZ" text="Visakhapatnam" order="163" />
+        <item code="GAU" text="Guwahati" order="164" />
+        <item code="3AI" text="Surin (The Chang Knowledge Park)" order="165" />
+        <item code="UTP" text="Pattaya" order="166" />
+        <item code="KHH" text="Kaohsiung" order="167" />
+        <item code="IMF" text="Imphal" order="168" />
+        <item code="3AJ" text="Chiang Khan" order="169" />
+        <item code="DAC" text="Dhaka" order="170" />
+        <item code="KHN" text="Nanchang" order="171" />
+        <item code="WUX" text="" order="172" />
+        <item code="1AI" text="Koh Lan (Pelabuhan Na Baan)" order="173" />
+        <item code="1AJ" text="Samed (Pelabuhan Na Dan)" order="174" />
+        <item code="3AK" text="Pattaya – Pusat Kota (Central Festival Pattaya Beach)" order="175" />
+        <item code="3AR" text="Rayong (PASSiONE oleh laemtong rayong)" order="176" />
+        <item code="HET" text="" order="177" />
+        <item code="L1S" text="" order="178" />
+        <item code="URC" text="" order="179" />
+        <item code="VNS" text="" order="180" />
+        <item code="AKL" text="Auckland" order="181" />
+        <item code="3AV" text="Buri Ram - Pusat Kota (Royal Hotel Gaya Barat Terbaik)" order="182" />
+        <item code="LHW" text="" order="183" />
+        <item code="LPQ" text="Luang Prabang" order="184" />
+        <item code="TNA" text="" order="185" />
+        <item code="SWA" text="Shantou" order="186" />
+        <item code="TTE" text="" order="187" />
+        <item code="HNL" text="Honolulu" order="188" />
+        <item code="MCT" text="Muscat" order="189" />
+        <item code="SHE" text="" order="190" />
+        <item code="MRU" text="Mauritius" order="191" />
+        <item code="CGQ" text="" order="192" />
+        <item code="DSN" text="" order="193" />
+        <item code="MZJ" text="" order="194" />
+        <item code="XNN" text="" order="195" />
+        <item code="IXB" text="Bagdogra" order="196" />
+        <item code="SXR" text="Srinagar" order="197" />
+        <item code="MPH" text="Caticlan - Boracay" order="198" />
+        <item code="BBI" text="Bhubaneswar" order="199" />
+        <item code="IXR" text="Ranchi" order="200" />
+        <item code="KOS" text="Sihanoukville" order="201" />
+        <item code="BNE" text="" order="202" />
+        <item code="CXR" text="Nha Trang" order="203" />
+        <item code="ILO" text="Iloilo" order="204" />
+        <item code="NGO" text="Nagoya - Chubu" order="205" />
+        <item code="OKA" text="" order="206" />
+        <item code="UNN" text="Ranong" order="207" />
+    </culture>
+</DocumentElement>

@@ -1,0 +1,29 @@
+<ul id="listofData">
+
+</ul>
+
+<script src="~/Scripts/jquery-3.5.1.min.js"></script>
+<script>
+  var html = '';
+  $.ajax(
+    {
+      url: 'api/culture',
+      type: 'GET',
+      dataType: 'json',
+      success: function (data, textStatus, xhr) {
+        console.log(data);
+
+        $.each(obj, function (key, value) {
+          html += '<li>' + value + '</li>';
+        });
+
+        $("#listofData").append(html);
+
+      },
+      error: function (xhr, textStatus, errorThrown) {
+        console.log('a' + textStatus);
+      }
+    }).done(function () {
+
+    });
+</script>

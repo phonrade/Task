@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!--Codes XML Document-->
+<DocumentElement>
+    <culture value="ko-KR">
+        <item code="OOL" text="골드코스트" order="1" />
+        <item code="MEL" text="멜버른" order="2" />
+        <item code="PER" text="퍼스" order="3" />
+        <item code="BWN" text="브루나이" order="4" />
+        <item code="PNH" text="프놈펜" order="5" />
+        <item code="REP" text="씨엠립" order="6" />
+        <item code="CTU" text="청두" order="7" />
+        <item code="CAN" text="광저우" order="8" />
+        <item code="KWL" text="구이린" order="9" />
+        <item code="HGH" text="항저우" order="10" />
+        <item code="SZX" text="선전" order="11" />
+        <item code="HKG" text="홍콩" order="12" />
+        <item code="BLR" text="벵갈루루" order="13" />
+        <item code="MAA" text="첸나이" order="14" />
+        <item code="COK" text="코치" order="15" />
+        <item code="CCU" text="콜카타" order="16" />
+        <item code="BOM" text="뭄바이" order="17" />
+        <item code="DEL" text="뉴델리" order="18" />
+        <item code="TRZ" text="티루치라팔리" order="19" />
+        <item code="DPS" text="발리" order="20" />
+        <item code="BPN" text="발릭파판" order="21" />
+        <item code="BTJ" text="반다아체" order="22" />
+        <item code="BDO" text="반둥" order="23" />
+        <item code="CGK" text="자카르타" order="24" />
+        <item code="UPG" text="마카사르" order="25" />
+        <item code="PDG" text="파당" order="26" />
+        <item code="PLM" text="팔렘방" order="27" />
+        <item code="PKU" text="페칸바루" order="28" />
+        <item code="SOC" text="솔로" order="29" />
+        <item code="SUB" text="수라바야" order="30" />
+        <item code="JOG" text="욕야카르타" order="31" />
+        <item code="VTE" text="비엔티안" order="32" />
+        <item code="MFM" text="마카오" order="33" />
+        <item code="AOR" text="알로르 세타르" order="34" />
+        <item code="BTU" text="빈툴루" order="35" />
+        <item code="JHB" text="조호바루" order="36" />
+        <item code="KBR" text="코타바루" order="37" />
+        <item code="BKI" text="코타키나발루" order="38" />
+        <item code="KUL" text="쿠알라룸푸르" order="39" />
+        <item code="TGG" text="쿠알라 트렝가누" order="40" />
+        <item code="KCH" text="쿠칭" order="41" />
+        <item code="LBU" text="라부안" order="42" />
+        <item code="LGK" text="랑카위" order="43" />
+        <item code="MYY" text="미리" order="44" />
+        <item code="PEN" text="페낭" order="45" />
+        <item code="SDK" text="산다칸" order="46" />
+        <item code="SBW" text="시부" order="47" />
+        <item code="TWU" text="타와우" order="48" />
+        <item code="RGN" text="양곤" order="49" />
+        <item code="CRK" text="클라크" order="50" />
+        <item code="SIN" text="싱가포르" order="51" />
+        <item code="CMB" text="콜롬보" order="52" />
+        <item code="TPE" text="타이베이-타오위안" order="53" />
+        <item code="BKK" text="방콕" order="54" />
+        <item code="CNX" text="치앙 마이" order="55" />
+        <item code="CEI" text="치앙 라이" order="56" />
+        <item code="HDY" text="핫야이" order="57" />
+        <item code="KBV" text="크라비" order="58" />
+        <item code="NST" text="나콘시타마랏" order="59" />
+        <item code="NAW" text="나라티왓" order="60" />
+        <item code="HKT" text="푸켓" order="61" />
+        <item code="URT" text="수랏타니" order="62" />
+        <item code="UBP" text="우본라차타니" order="63" />
+        <item code="UTH" text="우돈타니" order="64" />
+        <item code="HAN" text="하노이" order="65" />
+        <item code="SGN" text="호치민시티" order="66" />
+        <item code="BFV" text="부리람" order="67" />
+        <item code="CKG" text="충칭" order="68" />
+        <item code="CHC" text="크라이스트처치" order="69" />
+        <item code="KWE" text="" order="70" />
+        <item code="HND" text="도쿄 - 하네다" order="71" />
+        <item code="ICN" text="서울" order="72" />
+        <item code="NKG" text="난징" order="73" />
+        <item code="IKA" text="테헤란" order="74" />
+        <item code="KIX" text="오사카" order="75" />
+        <item code="CSX" text="창사" order="76" />
+        <item code="KOP" text="나콘 파놈" order="77" />
+        <item code="SRG" text="세마랑" order="78" />
+        <item code="SYD" text="시드니" order="79" />
+        <item code="TST" text="뜨랑" order="80" />
+        <item code="DVO" text="다바오" order="81" />
+        <item code="DXB" text="" order="82" />
+        <item code="HRB" text="" order="83" />
+        <item code="KLO" text="칼리보 - 보라카이" order="84" />
+        <item code="JED" text="제다" order="85" />
+        <item code="PPS" text="푸에르토 프린세사 - 팔라완" order="86" />
+        <item code="SHA" text="" order="87" />
+        <item code="MNL" text="마닐라" order="88" />
+        <item code="PEK" text="베이징" order="89" />
+        <item code="SHJ" text="" order="90" />
+        <item code="TLS" text="" order="91" />
+        <item code="BEY" text="" order="92" />
+        <item code="CGO" text="" order="93" />
+        <item code="BGW" text="" order="94" />
+        <item code="DMK" text="방콕 – 돈므앙" order="95" />
+        <item code="KTM" text="카트만두" order="96" />
+        <item code="NGB" text="닝보" order="97" />
+        <item code="NNG" text="난닝" order="98" />
+        <item code="SZB" text="" order="99" />
+        <item code="LOP" text="롬복" order="100" />
+        <item code="MDL" text="만달레이" order="101" />
+        <item code="WUH" text="우한" order="102" />
+        <item code="XIY" text="시안" order="103" />
+        <item code="1AA" text="사무이 (리파 노이 부두)" order="104" />
+        <item code="1AB" text="코팡안 (통 살라 피어)" order="105" />
+        <item code="1AC" text="피피 (피피 피어)" order="106" />
+        <item code="1AD" text="란타 (살라단 피어)" order="107" />
+        <item code="1AE" text="리뻬 (선라이즈 비치)" order="108" />
+        <item code="L1A" text="돈삭 부두" order="109" />
+        <item code="L1B" text="라사다 부두" order="110" />
+        <item code="L1C" text="노파랏타라 부두" order="111" />
+        <item code="L1D" text="팍바라 부두" order="112" />
+        <item code="GAY" text="" order="113" />
+        <item code="PUS" text="부산" order="114" />
+        <item code="KMG" text="쿤밍" order="115" />
+        <item code="PVG" text="상하이" order="116" />
+        <item code="WNZ" text="" order="117" />
+        <item code="DLC" text="" order="118" />
+        <item code="1AF" text="가이(코가이 빌라)" order="119" />
+        <item code="1AG" text="야오 노이(마노 부두)" order="120" />
+        <item code="L1E" text="팍멩 부두" order="121" />
+        <item code="L1F" text="노파랏타라 부두" order="122" />
+        <item code="DRW" text="다윈" order="123" />
+        <item code="CEB" text="세부" order="124" />
+        <item code="JJN" text="진장" order="125" />
+        <item code="TAG" text="타그빌라란" order="126" />
+        <item code="TAC" text="타클로반" order="127" />
+        <item code="HFE" text="" order="128" />
+        <item code="KNO" text="메단 - 쿠알라나무" order="129" />
+        <item code="MWX" text="" order="130" />
+        <item code="TAO" text="" order="131" />
+        <item code="KKC" text="콘캔" order="132" />
+        <item code="MLE" text="말레" order="133" />
+        <item code="PHS" text="핏사눌록" order="134" />
+        <item code="XCH" text="Christmas Island (Charter)" order="135" />
+        <item code="3AA" text="빠이(빠이버스터미널)" order="136" />
+        <item code="L1G" text="Hua Hin pier" order="137" />
+        <item code="3AB" text="수코타이(타라부리 리조트)" order="138" />
+        <item code="CJU" text="제주" order="139" />
+        <item code="NRT" text="도쿄 - 나리타" order="140" />
+        <item code="3AC" text="무크다한(인도차이나 시장)" order="141" />
+        <item code="1AH" text="타오 섬(씨트랜 피어)" order="142" />
+        <item code="DAD" text="다낭" order="143" />
+        <item code="GOI" text="고아" order="144" />
+        <item code="MED" text="" order="145" />
+        <item code="3AD" text="깔라신" order="146" />
+        <item code="3AE" text="마하사라캄" order="147" />
+        <item code="IXC" text="찬디가르" order="148" />
+        <item code="JAI" text="자이푸르" order="149" />
+        <item code="SNO" text="사콘나콘" order="150" />
+        <item code="DKR" text="" order="151" />
+        <item code="HHQ" text="" order="152" />
+        <item code="HYD" text="하이데라바드" order="153" />
+        <item code="TUN" text="" order="154" />
+        <item code="PNQ" text="푸네" order="155" />
+        <item code="3AG" text="카놈" order="156" />
+        <item code="GES" text="" order="157" />
+        <item code="LOE" text="르이" order="158" />
+        <item code="NNT" text="난" order="159" />
+        <item code="ROI" text="로이엣" order="160" />
+        <item code="CTS" text="삿포로 - 신치토세" order="161" />
+        <item code="PNK" text="폰티아나크" order="162" />
+        <item code="VTZ" text="비사카파트남" order="163" />
+        <item code="GAU" text="구와하티" order="164" />
+        <item code="3AI" text="수린(창 지식공원)" order="165" />
+        <item code="UTP" text="파타야" order="166" />
+        <item code="KHH" text="가오슝" order="167" />
+        <item code="IMF" text="임팔" order="168" />
+        <item code="3AJ" text="치앙칸" order="169" />
+        <item code="DAC" text="다카" order="170" />
+        <item code="KHN" text="난창" order="171" />
+        <item code="WUX" text="" order="172" />
+        <item code="1AI" text="코란(나반 선착장)" order="173" />
+        <item code="1AJ" text="사멧(나단 선착장)" order="174" />
+        <item code="3AK" text="파타야-시내(센트럴 페스티벌 파타야 해변)" order="175" />
+        <item code="3AR" text="라용(PASSiONE 램통 라용 제공)" order="176" />
+        <item code="AKL" text="오클랜드" order="177" />
+        <item code="HET" text="" order="178" />
+        <item code="L1S" text="" order="179" />
+        <item code="URC" text="" order="180" />
+        <item code="VNS" text="" order="181" />
+        <item code="3AV" text="부리람 - 다운타운(베스트 웨스턴 로열 호텔)" order="182" />
+        <item code="LHW" text="" order="183" />
+        <item code="LPQ" text="루앙 프라방" order="184" />
+        <item code="TNA" text="" order="185" />
+        <item code="SWA" text="산터우" order="186" />
+        <item code="TTE" text="" order="187" />
+        <item code="HNL" text="호놀룰루" order="188" />
+        <item code="MCT" text="무스카트" order="189" />
+        <item code="SHE" text="" order="190" />
+        <item code="MRU" text="모리셔스" order="191" />
+        <item code="CGQ" text="" order="192" />
+        <item code="DSN" text="" order="193" />
+        <item code="MZJ" text="" order="194" />
+        <item code="XNN" text="" order="195" />
+        <item code="IXB" text="바그도그라" order="196" />
+        <item code="SXR" text="스리나가르" order="197" />
+        <item code="MPH" text="카티클란-보라카이" order="198" />
+        <item code="BBI" text="부바네스와르" order="199" />
+        <item code="IXR" text="란치" order="200" />
+        <item code="KOS" text="시아누크빌" order="201" />
+        <item code="BNE" text="" order="202" />
+        <item code="CXR" text="냐짱" order="203" />
+        <item code="ILO" text="일로일로" order="204" />
+        <item code="NGO" text="나고야 - 추부" order="205" />
+        <item code="OKA" text="" order="206" />
+        <item code="UNN" text="라농" order="207" />
+    </culture>
+</DocumentElement>

@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!--Codes XML Document-->
+<DocumentElement>
+    <culture value="zh-HK">
+        <item code="CAN" text="廣州" order="1" />
+        <item code="CTU" text="成都" order="2" />
+        <item code="HGH" text="杭州" order="3" />
+        <item code="KWL" text="桂林" order="4" />
+        <item code="SZX" text="深圳" order="5" />
+        <item code="CCU" text="加爾各答" order="6" />
+        <item code="BOM" text="孟買" order="7" />
+        <item code="DEL" text="新德里" order="8" />
+        <item code="COK" text="柯枝 " order="9" />
+        <item code="MAA" text="清奈" order="10" />
+        <item code="CHC" text="基督城" order="11" />
+        <item code="TRZ" text="蒂魯吉拉伯利" order="12" />
+        <item code="BLR" text="邦加魯魯" order="13" />
+        <item code="PKU" text="北根巴魯" order="14" />
+        <item code="DPS" text="峇里島" order="15" />
+        <item code="PLM" text="巨港" order="16" />
+        <item code="PDG" text="巴東" order="17" />
+        <item code="BPN" text="巴里八班" order="18" />
+        <item code="JOG" text="日惹" order="19" />
+        <item code="UPG" text="望加錫" order="20" />
+        <item code="SOC" text="梭羅" order="21" />
+        <item code="SUB" text="泗水" order="22" />
+        <item code="BTJ" text="班達亞齊" order="23" />
+        <item code="BDO" text="萬隆" order="24" />
+        <item code="CGK" text="雅加達" order="25" />
+        <item code="TPE" text="台北 - 桃園" order="26" />
+        <item code="BWN" text="汶萊" order="27" />
+        <item code="CMB" text="科倫坡" order="28" />
+        <item code="SIN" text="新加坡" order="29" />
+        <item code="REP" text="暹粒" order="30" />
+        <item code="IKA" text="德黑蘭" order="31" />
+        <item code="PNH" text="金邊" order="32" />
+        <item code="HDY" text="合艾" order="33" />
+        <item code="KBV" text="喀比" order="34" />
+        <item code="HKT" text="布吉" order="35" />
+        <item code="ICN" text="首爾仁川" order="36" />
+        <item code="BKK" text="曼谷" order="37" />
+        <item code="NST" text="洛坤府" order="38" />
+        <item code="CEI" text="清萊" order="39" />
+        <item code="CNX" text="清邁" order="40" />
+        <item code="UBP" text="烏汶" order="41" />
+        <item code="UTH" text="烏隆他尼" order="42" />
+        <item code="URT" text="素叻他尼" order="43" />
+        <item code="NAW" text="那拉迪瓦" order="44" />
+        <item code="MEL" text="墨爾本" order="45" />
+        <item code="PER" text="柏斯" order="46" />
+        <item code="OOL" text="黃金海岸" order="47" />
+        <item code="MFM" text="澳門" order="48" />
+        <item code="RGN" text="仰光" order="49" />
+        <item code="VTE" text="萬象" order="50" />
+        <item code="CRK" text="克拉克" order="51" />
+        <item code="HAN" text="河内" order="52" />
+        <item code="SGN" text="胡志明市" order="53" />
+        <item code="HKG" text="香港 " order="54" />
+        <item code="TGG" text="丁加奴" order="55" />
+        <item code="BKI" text="沙巴（亞庇）" order="56" />
+        <item code="AOR" text="亞羅士打" order="57" />
+        <item code="KCH" text="古晋" order="58" />
+        <item code="KUL" text="吉隆坡" order="59" />
+        <item code="KBR" text="哥打巴鲁" order="60" />
+        <item code="SDK" text="山打根" order="61" />
+        <item code="TWU" text="斗湖" order="62" />
+        <item code="JHB" text="新山" order="63" />
+        <item code="PEN" text="檳城" order="64" />
+        <item code="BTU" text="民都魯" order="65" />
+        <item code="LGK" text="浮羅交怡" order="66" />
+        <item code="LBU" text="納閩" order="67" />
+        <item code="MYY" text="美里" order="68" />
+        <item code="SBW" text="詩巫" order="69" />
+        <item code="HND" text="東京 - 羽田" order="70" />
+        <item code="BFV" text="武里南府" order="71" />
+        <item code="CKG" text="重慶" order="72" />
+        <item code="KWE" text="" order="73" />
+        <item code="NKG" text="南京" order="74" />
+        <item code="KIX" text="大阪關西" order="75" />
+        <item code="CSX" text="長沙" order="76" />
+        <item code="KOP" text="那空拍儂" order="77" />
+        <item code="SRG" text="三寶壟" order="78" />
+        <item code="SYD" text="悉尼" order="79" />
+        <item code="TST" text="董里府" order="80" />
+        <item code="DVO" text="達沃" order="81" />
+        <item code="DXB" text="" order="82" />
+        <item code="HRB" text="" order="83" />
+        <item code="KLO" text="卡利博" order="84" />
+        <item code="JED" text="吉達" order="85" />
+        <item code="SHA" text="" order="86" />
+        <item code="PPS" text="普林塞薩港 - 巴拉望" order="87" />
+        <item code="MNL" text="馬尼拉" order="88" />
+        <item code="PEK" text="北京" order="89" />
+        <item code="SHJ" text="" order="90" />
+        <item code="TLS" text="" order="91" />
+        <item code="BEY" text="" order="92" />
+        <item code="CGO" text="" order="93" />
+        <item code="BGW" text="" order="94" />
+        <item code="DMK" text="曼谷 - 廊曼" order="95" />
+        <item code="KTM" text="加德滿都" order="96" />
+        <item code="NGB" text="寧波" order="97" />
+        <item code="NNG" text="南寧" order="98" />
+        <item code="SZB" text="" order="99" />
+        <item code="LOP" text="龍目島" order="100" />
+        <item code="MDL" text="曼德勒" order="101" />
+        <item code="WUH" text="武漢" order="102" />
+        <item code="XIY" text="西安" order="103" />
+        <item code="1AA" text="蘇梅島（利巴諾伊碼頭）" order="104" />
+        <item code="1AB" text="帕岸島（通沙拉碼頭）" order="105" />
+        <item code="1AC" text="皮皮島（皮皮島碼頭）" order="106" />
+        <item code="1AD" text="藍塔島（沙拉丹碼頭）" order="107" />
+        <item code="1AE" text="利普島（日出海灘）" order="108" />
+        <item code="L1A" text="" order="109" />
+        <item code="L1B" text="" order="110" />
+        <item code="L1C" text="" order="111" />
+        <item code="L1D" text="" order="112" />
+        <item code="PUS" text="釜山" order="113" />
+        <item code="GAY" text="" order="114" />
+        <item code="KMG" text="昆明" order="115" />
+        <item code="PVG" text="上海" order="116" />
+        <item code="CTS" text="扎幌 - 新千歲" order="117" />
+        <item code="WNZ" text="" order="118" />
+        <item code="DLC" text="" order="119" />
+        <item code="1AF" text="愛島 (愛島別墅酒店) " order="120" />
+        <item code="1AG" text="瑤諾島 (瑪諾碼頭)" order="121" />
+        <item code="L1E" text="" order="122" />
+        <item code="L1F" text="" order="123" />
+        <item code="DRW" text="達爾文" order="124" />
+        <item code="CEB" text="宿霧" order="125" />
+        <item code="JJN" text="晉江" order="126" />
+        <item code="TAG" text="塔比拉蘭" order="127" />
+        <item code="TAC" text="塔克洛班" order="128" />
+        <item code="HFE" text="" order="129" />
+        <item code="KNO" text="棉蘭-瓜拉納穆" order="130" />
+        <item code="MWX" text="" order="131" />
+        <item code="TAO" text="" order="132" />
+        <item code="KKC" text="孔敬" order="133" />
+        <item code="MLE" text="馬累" order="134" />
+        <item code="PHS" text="彭世洛" order="135" />
+        <item code="XCH" text="Christmas Island (Charter)" order="136" />
+        <item code="3AA" text="拜城 (拜城車站)" order="137" />
+        <item code="L1G" text="" order="138" />
+        <item code="3AB" text="素可泰（泰塔拉布里渡假村）" order="139" />
+        <item code="CJU" text="濟州" order="140" />
+        <item code="NRT" text="東京 - 成田" order="141" />
+        <item code="3AC" text="莫拉限市 (Indochina Market)" order="142" />
+        <item code="1AH" text="龜島 (Seatran 碼頭)" order="143" />
+        <item code="DAD" text="峴港" order="144" />
+        <item code="GOI" text="果阿" order="145" />
+        <item code="MED" text="" order="146" />
+        <item code="3AD" text="加拉信" order="147" />
+        <item code="3AE" text="瑪哈沙拉堪" order="148" />
+        <item code="IXC" text="昌迪加尔" order="149" />
+        <item code="JAI" text="齋浦爾" order="150" />
+        <item code="SNO" text="沙功那空" order="151" />
+        <item code="DKR" text="" order="152" />
+        <item code="HHQ" text="" order="153" />
+        <item code="HYD" text="海德拉巴" order="154" />
+        <item code="TUN" text="" order="155" />
+        <item code="PNQ" text="浦那" order="156" />
+        <item code="3AG" text="卡農" order="157" />
+        <item code="GES" text="" order="158" />
+        <item code="LOE" text="黎府" order="159" />
+        <item code="NNT" text="難府" order="160" />
+        <item code="ROI" text="黎逸府" order="161" />
+        <item code="PNK" text="坤甸" order="162" />
+        <item code="VTZ" text="維沙卡帕特南" order="163" />
+        <item code="GAU" text="古瓦哈提" order="164" />
+        <item code="3AI" text="蘇林 (The Chang Knowledge Park)" order="165" />
+        <item code="UTP" text="芭堤雅" order="166" />
+        <item code="KHH" text="高雄" order="167" />
+        <item code="IMF" text="因帕爾" order="168" />
+        <item code="3AJ" text="清縣" order="169" />
+        <item code="DAC" text="達卡" order="170" />
+        <item code="KHN" text="南昌" order="171" />
+        <item code="WUX" text="" order="172" />
+        <item code="1AI" text="格兰岛(Na Baan 码头)" order="173" />
+        <item code="1AJ" text="沙美岛(Na Dan 码头)" order="174" />
+        <item code="3AK" text="芭提雅 - 市中心 (芭提雅海滩 Central Festival 购物商场)" order="175" />
+        <item code="3AR" text="羅勇府(Laemtong Rayong集團PASSiONE商場)" order="176" />
+        <item code="AKL" text="奧克蘭" order="177" />
+        <item code="HET" text="" order="178" />
+        <item code="L1S" text="" order="179" />
+        <item code="URC" text="" order="180" />
+        <item code="VNS" text="" order="181" />
+        <item code="3AV" text="武里南府 - 市區 (皇家貝斯特韋斯特酒店)" order="182" />
+        <item code="LHW" text="" order="183" />
+        <item code="LPQ" text="龍坡邦" order="184" />
+        <item code="TNA" text="" order="185" />
+        <item code="SWA" text="汕頭" order="186" />
+        <item code="TTE" text="" order="187" />
+        <item code="HNL" text="檀香山" order="188" />
+        <item code="MCT" text="馬斯喀特" order="189" />
+        <item code="SHE" text="" order="190" />
+        <item code="CGQ" text="" order="191" />
+        <item code="DSN" text="" order="192" />
+        <item code="MRU" text="" order="193" />
+        <item code="MZJ" text="" order="194" />
+        <item code="XNN" text="" order="195" />
+        <item code="IXB" text="巴多格拉" order="196" />
+        <item code="SXR" text="斯利那加" order="197" />
+        <item code="MPH" text="卡提克蘭機場 (長灘島)" order="198" />
+        <item code="BBI" text="布巴內斯瓦爾" order="199" />
+        <item code="IXR" text="蘭契" order="200" />
+        <item code="KOS" text="西哈努克維爾" order="201" />
+        <item code="BNE" text="" order="202" />
+        <item code="CXR" text="芽莊" order="203" />
+        <item code="ILO" text="伊洛伊洛" order="204" />
+        <item code="NGO" text="名古屋 - 中部" order="205" />
+        <item code="OKA" text="" order="206" />
+        <item code="UNN" text="拉廊" order="207" />
+    </culture>
+</DocumentElement>
